@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ssh-pod:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2025-01-16T16:22:18.865008+03:30"
+    description: A Helm chart for deploy a POD with SSH enabled
+    digest: ea3b146aede35f1f298708ff4b391df3caefece3d11a971b6395e153158665d3
+    name: ssh-pod
+    type: application
+    urls:
+    - https://mahdidarabi.github.io/helm-charts/ssh-pod/ssh-pod-0.0.1.tgz
+    version: 0.0.1
+generated: "2025-01-16T16:22:18.864189+03:30"
